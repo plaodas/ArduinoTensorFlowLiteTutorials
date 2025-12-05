@@ -22,3 +22,11 @@ This tutorial is adapted from the [workshop](https://github.com/sandeepmistry/ai
 * [Exercise 8: Next Steps](exercises/exercise8.md)
 
 
+
+## 備考
+  - LSM9DS1のライブラリインストール
+  ```
+  $ arduino-cli lib install Arduino_LSM9DS1
+  ```
+  - [LSM9DS1の動作チェック](ArduinoSketches/LSM9DS1_SimpleAccelerometer/LSM9DS1_SimpleAccelerometer.ino)
+  
